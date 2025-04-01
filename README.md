@@ -1,3 +1,3 @@
 # absolutetrash
 ## An exploration of litter and flytipping in Birmingham
-![Histogram](assets/frontpage.jpeg)
+![Histogram](assets/flytipping1.jpeg)
