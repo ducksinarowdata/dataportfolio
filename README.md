@@ -22,6 +22,6 @@ Salesforce Administrator, PowerBI, PowerAutomation, Excel, Beginner Python.
 
 # Projects
 
-* [Time Series Analysis of Fly-Tipping in Birmingham](https://github.com/ducksinarowdata/absolutetrash/)
+[Time Series Analysis of Fly-Tipping in Birmingham](https://github.com/ducksinarowdata/absolutetrash/)
 
 ![Histogram](assets/flytipping1.jpeg)
