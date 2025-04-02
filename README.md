@@ -4,13 +4,21 @@ I am a Data Scientist in training with a passion for storytelling with data visu
 
 # Work Experience
 
-*
-*
-* Sales Executive and Sales Team Manager at Royal Institution of Chartered Surveyors
+* __Up Next: Account Manager at Amber Energy__
 
-  Using Power BI and Microsoft Dynamics CRM to analyse sales data and performance against KPIs
+Using a data-driven approach and analytics to manage contract delivery and performance, and find opportunities for growth with key clients.
 
-# Goals & Interests
+* __Client Management Officer and Sales Manager at Coventry University__
+
+Working in the Commercial subsidiary of Coventry University, I leverage data from Salesforce and other disparate sources to analyse our performance against KPIs and our opportunities for growth.
+
+* __Sales Executive and Sales Team Manager at Royal Institution of Chartered Surveyors__
+
+  Using Power BI and Microsoft Dynamics CRM to analyse sales data and performance against KPIs.
+
+# Skillset
+
+Salesforce Administrator, PowerBI, PowerAutomation, Excel, Beginner Python.
 
 # Projects
 
